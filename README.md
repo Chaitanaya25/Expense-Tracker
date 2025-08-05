@@ -22,30 +22,22 @@ A full-stack **Expense Tracker** web application built using the **MERN stack** 
 ## 📊 Screenshots
 
 ### Login
-
 ![Login](./screens/Login.jpg)
 
 ### Dashboard Overview
-
 ![Dashboard](./screens/DashBoard.jpg)
 
 ### Add Expense
-
 ![Add Expense](./screens/Add_Expense.jpg)
 
 ### Add Income
-
 ![Add Income](./screens/Add_Income.jpg)
 
 ### Income Page
-
 ![Income](./screens/Income.jpg)
 
 ### Expense Page
-
 ![Expense](./screens/Expense.jpg)
-
----
 
 ## 🌐 Tech Stack
 
